@@ -4,10 +4,11 @@
   "description": "Academy project",
   "main": "index.js",
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "scripts": {
     "start": "nodemon index.js",
+    "build": "echo 'Run your build commands here'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
